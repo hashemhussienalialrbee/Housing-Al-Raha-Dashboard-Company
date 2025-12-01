@@ -81,6 +81,6 @@ This dashboard is ideal for:
 - `Housing_Al_Raha.pbix`
 - `Housing_Al_Raha.png`
 - `README.md`
-- `housing_data.csv` *(if included)*
+- `housing_data.csv` 
 
 # Housing-Al-Raha-Dashboard-Company
