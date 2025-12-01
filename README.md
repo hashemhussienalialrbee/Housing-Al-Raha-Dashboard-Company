@@ -48,7 +48,6 @@ This dashboard is ideal for:
 ![Housing Al Raha Dashboard](Housing_Al_Raha.png)
 
 
-> *If your image has a different name, replace the filename accordingly.*
 
 ---
 
