@@ -45,8 +45,8 @@ This dashboard is ideal for:
 ---
 
 ## 📷 Dashboard Preview
+![Housing Al Raha Dashboard](Housing_Al_Raha.png)
 
-![Housing Al Raha Dashboard](Housing%20Al%20Raha.png)
 
 > *If your image has a different name, replace the filename accordingly.*
 
